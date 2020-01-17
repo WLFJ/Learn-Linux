@@ -34,7 +34,7 @@
 
 `git config --clobal user.name "User Name"`
 
-`git config --globel user.email "adderss@dimain.com"
+`git config --globel user.email "adderss@dimain.com"`
 
 ## 提交更改
 

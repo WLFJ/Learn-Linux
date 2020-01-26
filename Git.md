@@ -93,6 +93,8 @@
 
 `git push --set-upstream origin master`
 
+可能会出现远程和本地冲突的问题，使用`git pull origin master --allow-unrelated-histories`强制合并
+
 ### 设置保存密码
 
 `git config credential.helper store`
